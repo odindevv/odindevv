@@ -68,7 +68,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ymartinez@cincinnatus.edu.do<br/><br/>
+ 📧 &emsp; Reach me anytime: yordymartinez202@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/odindevv/odindevv/issues)
 
 </p>
